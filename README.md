@@ -2,6 +2,7 @@
 This is a list of California law enforcement agencies that we have gathered and curated for the purpose of finding and tracking policy manuals and military equipment inventories.
 
 # Long List of LEAs
+- Ref: This is the index number used to disambiguate the LEAs within the Know Systemic Racism Project. The SB978 prefix is a legacy prefix that associates this project with the California law requiring that these be posted publicly. The following number is purely an index and is not ordered. 
 - LEA Name: Name of each California law enforcement agency as listed on their posted policy manual. Exceptions include when a shortened name is listed on a manual, but a consistent posted reference is referred elsewhere.
 - Reference: Reference refers to a parent police department that the list LEA is part of, as noted in California LEA csv
 - Contract: Contract refers to a designation of whether an LEA enters a formal, legally binding agreement to provide law enforcement services to another LEA for a fee, as noted in California LEA csv
