@@ -1,5 +1,5 @@
 # California Law Enforcement Agencies
-This is a list of California law enforcement agencies that we have gathered and curated for the purpose of finding and tracking policy manuals and military equipment inventories.
+This is a list of California law enforcement agencies that we have gathered and curated for the purpose of finding and tracking policy manuals and military equipment inventories. This list was obtained from the [California's Commision on Police Officer Standards and Training](https://post.ca.gov/le-agencies)
 
 # Long List of LEAs
 - Ref: This is the index number used to disambiguate the LEAs within the Know Systemic Racism Project. The SB978 prefix is a legacy prefix that associates this project with the California law requiring that these be posted publicly. The following number is purely an index and is not ordered. 
