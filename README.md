@@ -21,7 +21,7 @@ This list is based on the [California's Commision on Police Officer Standards an
 - **lea type**: The type is based on the CA.Gov Post listing type. Possible values are: College/University, Police, School, Transit, Probation, Sheriff, District Attorney, Port, Airport, Parks, Public Safety, School District, Communications.
 
 
-## Long List of LEAs
+## Long LEA list 2022-11-21.csv Headings
 - **Ref**: This is the index number used to disambiguate the LEAs within the Know Systemic Racism Project. The SB978 prefix is a legacy prefix that associates this project with the California law requiring that these be posted publicly. The following number is purely an index and is not ordered. 
 - **LEA Name**: Name of each California law enforcement agency as listed on their posted policy manual. Exceptions include when a shortened name is listed on a manual, but a consistent posted reference is referred elsewhere.
 - **Reference**: Reference refers to a parent police department that the list LEA is part of, as noted in California LEA csv
