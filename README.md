@@ -1,14 +1,20 @@
 # California Law Enforcement Agencies
 This is a list of California law enforcement agencies that we have gathered and curated for the purpose of finding and tracking policy manuals and military equipment inventories. Each row represents a law enforcement agency.
 
+The reason for compiling this list is to have a base set of URLs and related information for California LEAs that will be incorporated into the Know Systemic Racism Knowledge Graph. Stanford Libraries' KNOW Systemic Racism project began work in collaboration with the Electronic Frontier Foundation (EFF) to gather this list and details about California law enforcement agencies between 2018-2022. We continued to refine the list and add details into August 2023.
+
 ## Methodology
-This list is based on the [California's Commision on Police Officer Standards and Training](https://post.ca.gov/le-agencies). Some LEAs on that list do not appear on this list because our primary interest is in identifying the policy manuals. Some LEAs, particularly community college police departments, are part of a shared resource and use the same policy. 
+This dataset includes a list of POST (Peace Officer Standards and Training) participating law enforcement agencies (LEAs) in California. This list is based on the [California's Commision on Police Officer Standards and Training](https://post.ca.gov/le-agencies). Some LEAs on that list do not appear on this list because our primary interest is in identifying the policy manuals. For example, some LEAs, particularly community college police departments, are part of a shared resource and use the same policy. We added the website URL for each agency as well as an archived version of that URL at the point in time when we gathered it. We are very grateful to Archive.org for webarchving this and other material on the Web and encourage others to support their work. 
+
+These LEAs now all have entries within Wikidata and we have added the Wikidata QID to this list to make this dataset more durable and to make it open to continual development by the community.
+
+
 
 ## california-leas-2023-08-16.csv headings
 - **ksrid lea**: This is the index number used to disambiguate the LEAs within the Know Systemic Racism Project. The SB978 prefix is a legacy prefix that associates this project with the California law requiring that these policies be posted publicly. The following number is purely an index and is not ordered. 
 - **agency name**: Name of each California law enforcement agency as listed on their posted policy manual. Exceptions include when a shortened name is listed on a manual, but a consistent posted reference is referred elsewhere.
 - **site url**: The official website of the law enforcement agency at the time that these were gathered. These URLs can change over time, particularly if an agency migrates to another web site platform.
-- **webarchive url**: To maintain a consistent link to the site at the time of reference, we use the webarchive link made available by Archive.org's Wayback Machine. We are very grateful to Archive.org and encourage others to support their work.
+- **webarchive url**: To maintain a consistent link to the site at the time of reference, we use the webarchive link made available by Archive.org's Wayback Machine. 
 - **lea qid**: This is the unique identifier from Wikidata. Entity pages can be found by adding the prefix "https://www.wikidata.org/wiki/" followed by the QID.
 - **reference**: Reference refers to a parent police department that the list LEA is part of.
 - **city**: The city refers, in most cases, to the LEA headquarters city. There are exceptions for railroads, schools, etc.
