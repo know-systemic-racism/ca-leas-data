@@ -40,4 +40,5 @@ These LEAs now all have entries within Wikidata and we have added the Wikidata Q
 - **Mil Equip Policy Exists**: TRUE or FALSE refers to whether the manuals are identified and available for download. The result was initially based on a script then Q/Aed manually.
 - **Notes**: Additional information found through online searches to contextualize present or missing information
 
-
+## LEA_KSR.json
+This is the schema to be used with OpenRefine to populate Wikidata entries based on the california-leas-2023-0816.csv above.
