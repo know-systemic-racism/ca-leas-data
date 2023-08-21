@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Williams
+    given-names: Chloe
+    orcid: https://orcid.org/0009-0006-0472-653X
+  - family-names: Coleman
+    given-names: Catherine Nicole
+    orcid: https://orcid.org/0000-0002-3360-1975
+  - family-names: Colmenares
+    given-names: Anabelle
+    orcid:
+title: "California Law Enforcement Agencies"
+version: 2.0
+doi: 10.25740/dj529nn1168
+date-released: 2023-08-18
+url: "https://github.com/know-systemic-racism/ca-leas-data"
+url: "https://purl.stanford.edu/dj529nn1168"
+
